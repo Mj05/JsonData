@@ -1,0 +1,135 @@
+{
+    "Restaurents": {
+      "Tulip": {
+        "Offers": [
+          {
+            "Offer_1": {
+              "Title": "12% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            },
+            "Offer_2": {
+              "Title": "22% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            }
+          }
+        ]
+      },
+      "Safroon": {
+        "Offers": [
+          {
+            "Offer_1": {
+              "Title": "12% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            },
+            "Offer_2": {
+              "Title": "22% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            }
+          }
+        ]
+      },
+      "Salt N Pepper": {
+        "Offers": [
+          {
+            "Offer_1": {
+              "Title": "12% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            },
+            "Offer_2": {
+              "Title": "22% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            }
+          }
+        ]
+      }
+    },
+    "Salon": {
+      "Salon1": {
+        "Offers": [
+          {
+            "Offer_1": {
+              "Title": "12% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            },
+            "Offer_2": {
+              "Title": "22% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            }
+          }
+        ]
+      },
+      "Salon2": {
+        "Offers": [
+          {
+            "Offer_1": {
+              "Title": "12% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            },
+            "Offer_2": {
+              "Title": "22% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            }
+          }
+        ]
+      },
+      "Salon3": {
+        "Offers": [
+          {
+            "Offer_1": {
+              "Title": "12% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            },
+            "Offer_2": {
+              "Title": "22% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            }
+          }
+        ]
+      }
+    },
+    "ToysShop": {
+      "ToysShop1": {
+        "Offers": [
+          {
+            "Offer_1": {
+              "Title": "12% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            },
+            "Offer_2": {
+              "Title": "22% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            }
+          }
+        ]
+      },
+      "ToysShop2": {
+        "Offers": [
+          {
+            "Offer_1": {
+              "Title": "12% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            },
+            "Offer_2": {
+              "Title": "22% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            }
+          }
+        ]
+      },
+      "ToysShop3": {
+        "Offers": [
+          {
+            "Offer_1": {
+              "Title": "12% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            },
+            "Offer_2": {
+              "Title": "22% CashBack",
+              "OfferDetail": "12% Cashback offer to prime members"
+            }
+          }
+        ]
+      }
+    }
+}
+
