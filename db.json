@@ -1,8 +1,8 @@
 {
   "categories": {
     "Restaurents": {
+      "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
       "Tulip": {
-        "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
         "Offers": [
           {
             "Offer_1": {
@@ -17,7 +17,6 @@
         ]
       },
       "Safroon": {
-        "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
         "Offers": [
           {
             "Offer_1": {
@@ -32,7 +31,6 @@
         ]
       },
       "Salt N Pepper": {
-        "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
         "Offers": [
           {
             "Offer_1": {
@@ -48,8 +46,8 @@
       }
     },
     "Salon": {
+      "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
       "Salon1": {
-        "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
         "Offers": [
           {
             "Offer_1": {
@@ -64,7 +62,6 @@
         ]
       },
       "Salon2": {
-        "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
         "Offers": [
           {
             "Offer_1": {
@@ -79,7 +76,6 @@
         ]
       },
       "Salon3": {
-        "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
         "Offers": [
           {
             "Offer_1": {
@@ -95,8 +91,8 @@
       }
     },
     "ToysShop": {
+      "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
       "ToysShop1": {
-        "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
         "Offers": [
           {
             "Offer_1": {
@@ -111,7 +107,6 @@
         ]
       },
       "ToysShop2": {
-        "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
         "Offers": [
           {
             "Offer_1": {
@@ -126,7 +121,6 @@
         ]
       },
       "ToysShop3": {
-        "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
         "Offers": [
           {
             "Offer_1": {
