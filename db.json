@@ -1,139 +1,55 @@
 {
   "categories": {
-    "Restaurents": {
+    "restaurents_slug": {
+      "title":"Restaurents",
       "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
-      "Tulip": {
-        "Offers": [
-          {
-            "Offer_1": {
-              "Title": "12% CashBack Tulip",
-              "OfferDetail": "12% Cashback offer to prime members"
-            },
-            "Offer_2": {
-              "Title": "22% CashBack Tulip",
-              "OfferDetail": "12% Cashback offer to prime members"
-            }
+      "stores":{
+            "tulip_slug": {
+              "title":"Tulip",
+              "logo" :  "https://facebook.github.io/react-native/docs/assets/favicon.png",
+              "Offers": {
+                "Offer_1_slug":{
+                    "Title": "12% CashBack Tulip",
+                    "OfferDetail": "12% Cashback offer to prime members"
+                  },
+                  "Offer_2_slug": {
+                    "Title": "22% CashBack Tulip",
+                    "OfferDetail": "12% Cashback offer to prime members"
+                  }
+                }
+              }
+            ,
+          "safroon_slug": {
+            "title":"Safroon",
+              "logo" :  "https://facebook.github.io/react-native/docs/assets/favicon.png",
+            "Offers": {
+                "Offer_3_slug": {
+                  "Title": "12% CashBack Safroon",
+                  "OfferDetail": "12% Cashback offer to prime members"
+                },
+                "Offer_4_slug": {
+                  "Title": "22% CashBack Safroon",
+                  "OfferDetail": "12% Cashback offer to prime members"
+                }
+              }
+          },
+          "salt_n_pepper_slug": {
+            "title":"Salt_n_pepper",
+              "logo" :  "https://facebook.github.io/react-native/docs/assets/favicon.png",
+            "Offers": 
+              {
+                "Offer_5_slug": {
+                  "Title": "12% CashBack Salt N Pepper",
+                  "OfferDetail": "12% Cashback offer to prime members"
+                },
+                "Offer_6_slug": {
+                  "Title": "22% CashBack Salt N Pepper",
+                  "OfferDetail": "12% Cashback offer to prime members"
+                }
+              }
           }
-        ]
-      },
-      "Safroon": {
-        "Offers": [
-          {
-            "Offer_1": {
-              "Title": "12% CashBack Safroon",
-              "OfferDetail": "12% Cashback offer to prime members"
-            },
-            "Offer_2": {
-              "Title": "22% CashBack Safroon",
-              "OfferDetail": "12% Cashback offer to prime members"
-            }
           }
-        ]
-      },
-      "Salt N Pepper": {
-        "Offers": [
-          {
-            "Offer_1": {
-              "Title": "12% CashBack Salt N Pepper",
-              "OfferDetail": "12% Cashback offer to prime members"
-            },
-            "Offer_2": {
-              "Title": "22% CashBack Salt N Pepper",
-              "OfferDetail": "12% Cashback offer to prime members"
-            }
-          }
-        ]
-      }
-    },
-    "Salon": {
-      "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
-      "Salon1": {
-        "Offers": [
-          {
-            "Offer_1": {
-              "Title": "12% CashBack Salon1",
-              "OfferDetail": "12% Cashback offer to prime members"
-            },
-            "Offer_2": {
-              "Title": "22% CashBack Salon1",
-              "OfferDetail": "12% Cashback offer to prime members"
-            }
-          }
-        ]
-      },
-      "Salon2": {
-        "Offers": [
-          {
-            "Offer_1": {
-              "Title": "12% CashBack Salon2",
-              "OfferDetail": "12% Cashback offer to prime members"
-            },
-            "Offer_2": {
-              "Title": "22% CashBack Salon2",
-              "OfferDetail": "12% Cashback offer to prime members"
-            }
-          }
-        ]
-      },
-      "Salon3": {
-        "Offers": [
-          {
-            "Offer_1": {
-              "Title": "12% CashBack Salon3",
-              "OfferDetail": "12% Cashback offer to prime members"
-            },
-            "Offer_2": {
-              "Title": "22% CashBack Salon3",
-              "OfferDetail": "12% Cashback offer to prime members"
-            }
-          }
-        ]
-      }
-    },
-    "ToysShop": {
-      "Logo": "https://facebook.github.io/react-native/docs/assets/favicon.png",
-      "ToysShop1": {
-        "Offers": [
-          {
-            "Offer_1": {
-              "Title": "12% CashBack ToysShop1",
-              "OfferDetail": "12% Cashback offer to prime members"
-            },
-            "Offer_2": {
-              "Title": "22% CashBack ToysShop1",
-              "OfferDetail": "12% Cashback offer to prime members"
-            }
-          }
-        ]
-      },
-      "ToysShop2": {
-        "Offers": [
-          {
-            "Offer_1": {
-              "Title": "12% CashBack ToysShop2",
-              "OfferDetail": "12% Cashback offer to prime members"
-            },
-            "Offer_2": {
-              "Title": "22% CashBack ToysShop2",
-              "OfferDetail": "12% Cashback offer to prime members"
-            }
-          }
-        ]
-      },
-      "ToysShop3": {
-        "Offers": [
-          {
-            "Offer_1": {
-              "Title": "12% CashBack ToysShop3",
-              "OfferDetail": "12% Cashback offer to prime members"
-            },
-            "Offer_2": {
-              "Title": "22% CashBack ToysShop3",
-              "OfferDetail": "12% Cashback offer to prime members"
-            }
-          }
-        ]
-      }
-    }
+        }
   }
 }
+
